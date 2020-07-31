@@ -4,3 +4,8 @@ namespace HairSalon.Models
 {
 
 }
+
+// Properties
+
+// ClientId
+// 
