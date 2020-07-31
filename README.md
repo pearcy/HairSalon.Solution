@@ -6,7 +6,7 @@
 
 ## Description
 
-_This application will allow a Hair Salon Owner the ability to add a list of stylists working at the salon, and for each stylist, add there clients.
+This application will allow a Hair Salon Owner the ability to add a list of stylists working at the salon, and for each stylist, add there clients.
 
 ## Specs
 
