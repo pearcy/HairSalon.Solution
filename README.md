@@ -6,7 +6,7 @@
 
 ## Description
 
-This application will allow a Hair Salon Owner the ability to add a list of stylists working at the salon, and for each stylist, add there clients.
+This application will allow a Hair Salon Owner the ability to add a list of stylists working at the salon, and for each stylist, add their respective clients. Once added the stylists and clients can be edited and deleted.  
 
 ## Specs
 
@@ -15,8 +15,13 @@ This application will allow a Hair Salon Owner the ability to add a list of styl
 | 1. Program will create a Stylist object with name | "Helen" | "Helen"  |
 | 2. Program will assign a unique id to each stylist | "Helen" | Id: 1  |
 | 3. Program will allow users to add client object to the Stylist List | "Ms Jones" | "Ms Jones" |
-| 4. Program will provide links to relevant pages to view & add stylists |  |  |
-| 5. Program will provide links to relevant pages to view & add clients |  |  |
+| 4. Program will allow users to edit stylist object in the Stylist List | "Ms Jones" |          |
+| 5. Program will allow users to delete stylist object in the Stylist List | "Ms Jones" |  |
+| 6. Program will allow users to edit client object in the Client List | "Ms Jones" |          |
+| 7. Program will allow users to delete client object in the Client List | "Ms Jones" |  |
+| 8. Program will provide navigation links to add, view, edit and delete Stylists |  |  |
+| 9. Program will provide navigation links to add, view, edit and delete Clients |  |  |
+
 
 
 ## Setup/Installation Requirements
