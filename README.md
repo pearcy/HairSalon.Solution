@@ -43,6 +43,7 @@ Importing the database schema
 - _Click Start Import.
 - _Reopen the Navigator > Schemas tab. Right click and select Refresh All. Our new test database will appear
 
+Build and Run the program
 - _Run \$ dotnet build to create project_
 - _Run \$ dotnet run in the command line to start the program
 
