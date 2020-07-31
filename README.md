@@ -42,9 +42,13 @@ _Please contact us with any known bugs or support issues._
 
 ## Technologies Used
 
-- _GitHub_
 - _C#_
-- _.netframework_
+- _.NET Core 2.2_
+- VS Code
+- MySQL Database
+- MySQL Workbench
+- Entity Framework
+- _Git_
 
 ### License
 
