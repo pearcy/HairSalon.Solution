@@ -23,29 +23,28 @@ This application will allow a Hair Salon Owner the ability to add a list of styl
 | 9. Program will provide navigation links to add, view, edit and delete Clients |  |  |
 
 
-
 ## Setup/Installation Requirements
 
-- _Clone or download this repository located at https://github.com/pearcy/HairSalon.Solution.git
-- _Open the downloaded directory in a text editor of your choice. (VSCode, Atom, etc.)
-- _Run \$ dotnet restore to download all dev dependencies_ Ensure that dotnet restore is targeting the directory containing the .csproj file
+- Clone or download this repository located at https://github.com/pearcy/HairSalon.Solution.git
+- Open the downloaded directory in a text editor of your choice. (VSCode, Atom, etc.)
+- Run \$ dotnet restore to download all dev dependencies_ Ensure that dotnet restore is targeting the directory containing the .csproj file
 
 Importing the database schema
-- _Use MySQL Workbench to create the database for the project by importing the "Joseph_Pearce.sql" file (it's included in the repo).
-- _In the Navigator > Administration window, select Data Import/Restore.
-- _In Import Options select Import from Self-Contained File.
-- _Save the "Joseph_Pearce.sql" file to your local machine.
-- _Navigate to the "Joseph_Pearce.sql" file.
-- _Under Default Schema to be Imported To, select the New button.
-- _ Enter the name of your database.
-- _In this case joseph_pearce.
-- _Click Ok.
-- _Click Start Import.
-- _Reopen the Navigator > Schemas tab. Right click and select Refresh All. Our new test database will appear
+- Use MySQL Workbench to create the database for the project by importing the "Joseph_Pearce_Salon.sql" file (it's included in the repo).
+- In the Navigator > Administration window, select Data Import/Restore.
+- In Import Options select Import from Self-Contained File.
+- Save the "Joseph_Pearce.sql" file to your local machine.
+- Navigate to the "Joseph_Pearce.sql" file.
+- Under Default Schema to be Imported To, select the New button.
+- Enter the name of your database.
+- In this case joseph_pearce.
+- Click Ok.
+- Click Start Import.
+- Reopen the Navigator > Schemas tab. Right click and select Refresh All. Our new test database will appear
 
 Build and Run the program
-- _Run \$ dotnet build to create project_
-- _Run \$ dotnet run in the command line to start the program
+- Run \$ dotnet build to create project_
+- Run \$ dotnet run in the command line to start the program
 
 
 ## Known Bugs
